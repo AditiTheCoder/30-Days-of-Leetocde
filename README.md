@@ -1,1 +1,1 @@
-# 30-Days-of-Leetocde
+# 30-Days-of-Leetcode
